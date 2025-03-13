@@ -1,0 +1,76 @@
+.profile-details-div{
+    width: 300px ;
+    height: fit-content;
+    background-color: rgb(237, 237, 237);
+    border-radius: 20px;
+    box-shadow:0px 0px 2px black ;
+
+}
+.profile-div{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    padding: 20px;
+}
+.img-div{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 10px;
+    position: relative;
+}
+.img-div img{
+    width: 150px;
+    height: 150px;
+    border-radius: 100px 0px 100px 100px;
+    padding: 5px;
+    background-color: white;
+}
+.details-div{
+   margin-top: 50px;
+}
+.details-div h6{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 10px;
+    background-color: rgb(219, 219, 219);
+    margin:10px 10px ;
+    border-radius: 10px;
+}
+.details-div h6 p{
+    margin: 0px;
+    color: gray;
+}
+.profile-details-div button{
+    width: 100%;
+}
+.profile-logout {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+.topedit-icon{
+    display: flex;
+    justify-content: end;
+    padding: 10px;
+}
+.topedit-icon svg{
+    padding: 10px;
+    width: 40px;
+    height: 40px;
+    background-color: rgb(48, 193, 48);
+    border-radius: 10px;
+    color: white;
+}
+.img-div h6{
+    position: absolute;
+    right:81px;
+    top: 15px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+}
+.img-div h6 a{
+    color: white;
+}

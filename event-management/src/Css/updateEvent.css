@@ -1,0 +1,21 @@
+.update-event{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 80px;
+    padding: 30px;
+}
+.update-event form{
+    padding: 20px;
+    box-shadow: 0px 0px 3px black;
+    width: 50%;
+    background-color: lightblue;
+}
+.update-head{
+    display: flex;
+    justify-content: center;
+    padding: 10px 0px;
+}
+.update-event h2{
+    font-family: emoji;
+}

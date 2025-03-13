@@ -1,0 +1,25 @@
+.profile-icon{
+    margin-right: 50px;
+}
+.d-flex{
+    align-items: center;
+}
+.me-auto{
+    margin-left: auto;
+}
+.navbar {
+    position: fixed;
+    width: 100%;
+}
+
+@media screen and (max-width:992px) {
+    .navbar-nav{
+        flex-direction: row;
+        justify-content: space-around;
+    }    
+}
+@media screen and (max-width:263px) {
+    .nav-link{
+        font-size: 10px;
+    }    
+}

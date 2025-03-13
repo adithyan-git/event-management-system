@@ -1,0 +1,20 @@
+.profile-imgedit-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+}
+.profile-imgedit-div form{
+    width: 40%;
+    padding: 20px;
+    box-shadow: 0px 0px 2px;
+    background-color: linen;
+}
+.img-head{
+    display: flex;
+    justify-content: center;
+
+}
+.img-head h2{
+    font-family: emoji;
+}

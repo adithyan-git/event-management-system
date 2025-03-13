@@ -1,0 +1,29 @@
+.footer-div{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    border-bottom: solid 1px;
+    padding: 10px 0px;
+
+}
+.footer-div h3{
+    margin: 0px;
+    text-align: center;
+}
+
+.about-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 20px;
+    border-bottom: solid 1px;
+}
+.footer{
+    background-color: rgb(250, 248, 248);
+    padding-bottom: 10px;
+}
+.about-div h4,p{
+    margin: 0px;
+    text-align: center;
+}

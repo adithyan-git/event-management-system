@@ -1,0 +1,58 @@
+.allUser-div{
+    background-color: rgb(240, 240, 240);
+    margin-top: 100px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 2px black;
+}
+.img-user-div img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    padding: 5px;
+    background-color: white;
+}
+.img-user-div{
+    display: flex;
+    justify-content: center;
+}
+.user-details h6{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color:white;
+    border-radius: 10px;
+    border-bottom: solid;
+
+}
+.user-details{
+    padding: 10px;
+}
+.user-details h6 p{
+    margin: 0px;
+    color: gray;
+}
+.allUser-div h3{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 10px;
+}
+.allUser-div  a svg{
+    width: 40px;
+    height: 40px;
+    background-color: green;
+    border-top: solid black;
+    border-bottom: solid black;
+    color: white;
+    padding: 10px;
+    border-radius: 30px;
+}
+.allUser-div svg{
+    background-color: brown;
+    width: 40px;
+    height: 40px;
+    border-top: solid black;
+    border-bottom: solid black;
+    color: white;
+    padding: 10px;
+    border-radius: 30px;
+}

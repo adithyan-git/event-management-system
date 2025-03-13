@@ -1,0 +1,20 @@
+.profile-edit-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+}
+.profile-edit-div form{
+    width: 40%;
+    padding: 20px;
+    box-shadow: 0px 0px 2px black;
+    background-color: lightcyan;      
+}
+.edit-head{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+.edit-head h2{
+    font-family: emoji;
+}

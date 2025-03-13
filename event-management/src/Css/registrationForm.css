@@ -1,0 +1,37 @@
+.registration-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    padding: 20px;
+}
+.registration-div form{
+    width: 50%;
+    padding: 20px;
+    box-shadow: 0px 0px 3px black;
+    background-color: gainsboro;
+
+}
+
+.registration-btn {
+    display: flex;
+    justify-content: space-between;
+}
+.registration-btn button{
+    width: 80%;
+}
+.registration-btn a{
+    width: 100%;
+}
+.sign-in-link{
+    display: flex;
+    justify-content: center;
+}
+.register-div{
+    display: flex;
+    justify-content: center;
+    padding: 10px 0px;
+}
+.register-div h2{
+    font-family: emoji;
+}

@@ -1,0 +1,55 @@
+.event-div{
+   
+    background-color: gainsboro;
+    margin-top: 100px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.event-div h4{
+    text-align: center;
+    padding: 10px;
+}
+.eventDetails-div{
+    padding: 10px;
+    background-color:ghostwhite;
+    border-radius: 5px;
+}
+.eventDetails-div h6{
+    display: flex;
+    justify-content: space-between;
+    background-color: gainsboro;
+    padding: 10px 8px;
+    border-radius: 10px;
+}
+.eventDetails-div h6 p{
+    margin: 0px;
+    color: gray;
+}
+.eventDetails-div h3{
+    font-size: 10px;
+    text-align: center;
+}
+.description-div{
+    padding: 10px;
+   
+}
+.description-div h5{
+    text-align: center;
+    font-size: 15px;
+}
+.event-div button{
+    width: 100%;
+    
+}
+.event-div h2{
+    display: flex;
+    justify-content: end;
+}
+.event-div h2 svg{
+    background-color: green;
+    color: white;
+    width: 35px;
+    height: 35px;
+    padding: 10px;
+    border-radius: 10px;
+}
